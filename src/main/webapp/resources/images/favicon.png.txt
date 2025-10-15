@@ -1,0 +1,4 @@
+This is a placeholder for the ScholarShare favicon in PNG format.
+In a real implementation, you would have an actual PNG favicon file here.
+The SVG version is already provided and will work in all modern browsers.
+For better compatibility with older browsers, you can convert the SVG to PNG using an online converter.

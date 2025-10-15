@@ -1,0 +1,3 @@
+This is a placeholder for the ScholarShare logo in PNG format. 
+In a real implementation, you would have an actual PNG image file here.
+The SVG version is already provided and will work in all modern browsers.
